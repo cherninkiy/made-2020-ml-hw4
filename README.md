@@ -58,7 +58,7 @@ https://kvartal.pro/kvx2007manual/331-m-kvx-generate-text.html
 ### Данные:
 
 Датасет на Kaggle: \
-kaggle competitions download -c made-hw-3
+```kaggle competitions download -c made-hw-3```
 
 Ссылки на данные: \
 https://www.kaggle.com/c/made-hw-3/data?select=train.csv \
