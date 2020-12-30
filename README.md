@@ -1,6 +1,5 @@
 # Проект: ThePropertyPhrasesGenerator
 ## "Помощник по составлению объявлений об аренде недвижимости" 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/cherninkiy/made-ml-hw4/main?filepath=demo%2F05_simple_demonstration.ipynb)
 
 ### Постановка задачи:
 
